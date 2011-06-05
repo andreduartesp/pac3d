@@ -1,0 +1,16 @@
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\mapa.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\bloco.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\pastilha.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Blink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Clyde.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Ink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\PacMan.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Pink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\map\_Metal_Corrogated_Shiny_1_0.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\blocks\Metal_Corrogated_Shiny_0.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\WindowsGame1.exe
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\WindowsGame1.pdb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Release\WindowsGame1.exe
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Release\WindowsGame1.pdb

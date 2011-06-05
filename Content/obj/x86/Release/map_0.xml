@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Model</Name>
+    <Identity>
+      <SourceFilename>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\Content\map.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh1</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-326.691528 0 -327.149445 -6.25402832 0 -327.149445 -6.375 0 -8.4375 -326.9375 0 -8.4375 0 0 -333.586945 -333.191528 0 -333.586945 -333.191528 0 0 -326.9375 0 -8.4375 -326.691528 0 -327.149445 -326.691528 24 -327.149445 -326.9375 24 -8.4375 -326.691528 0 -327.149445 -6.25402832 0 -327.149445 -6.25402832 24 -327.149445 -326.691528 24 -327.149445 -6.25402832 0 -327.149445 -6.375 0 -8.4375 -6.375 24 -8.4375 -6.25402832 24 -327.149445 0 0 0 -333.191528 0 0 0 0 0 0 24 0 -333.191528 24 0 0 0 0 0 0 -333.586945 0 24 -333.586945 0 24 0 0 0 -333.586945 -333.191528 0 -333.586945 -333.191528 24 -333.586945 0 24 -333.586945 -333.191528 0 -333.586945 -333.191528 0 0 -333.191528 24 0 -333.191528 24 -333.586945 -333.191528 24 0 -326.9375 24 -8.4375 -333.191528 24 -333.586945 0 24 0 -6.375 24 -8.4375 -6.25402832 24 -327.149445 0 24 -333.586945 -326.691528 24 -327.149445 -6.375 0 -8.4375 -326.9375 0 -8.4375 -326.9375 24 -8.4375 -6.375 24 -8.4375</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 1 4 0 4 5 0 6 0 5 3 0 6 1 2 7 2 3 7 6 7 3 4 1 7</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 19</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">326.691528 -326.149445 6.25402832 -326.149445 6.375 -7.4375 326.9375 -7.4375 0 -332.586945 333.191528 -332.586945 333.191528 1 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 30 29 28 31 28 29 32 31 29 33 31 32 31 33 34 33 35 34 34 35 30 29 30 35 38 37 36 36 39 38</Indices>
+            <Vertices>
+              <PositionIndices>7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.9999997 0 0.0007717681 0.9999997 0 0.0007717681 0.9999997 0 0.0007717681 0.9999997 0 0.0007717681 0 0 1 0 0 1 0 0 1 0 0 1 -0.99999994 0 -0.000379564619 -0.99999994 0 -0.000379564619 -0.99999994 0 -0.000379564619 -0.99999994 0 -0.000379564619 0 0 1 0 0 1 0 0 1 0 0 1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">2.04629445 1 81.7243042 1 81.7243042 -5 2.04629445 -5 -81.67288 1 -1.56350708 1 -1.56350708 -5 -81.67288 -5 -81.7867661 1 -2.10877 1 -2.10877 -5 -81.7867661 -5 -83.29788 1 0 1 0 -5 -83.29788 -5 0 1 83.3967361 1 83.3967361 -5 0 -5 0 1 83.29788 1 83.29788 -5 0 -5 -83.3967361 1 0 1 0 -5 -83.3967361 -5 -83.29788 1 -81.734375 -1.109375 -83.29788 -82.3967361 0 1 -1.59375 -1.109375 -1.56350708 -80.78736 0 -82.3967361 -81.67288 -80.78736 1.59375 1 81.734375 1 81.734375 -5 1.59375 -5</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>FrontColor</Name>
+      <Identity>
+        <SourceFilename>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\Content\map.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>_Metal_Corrogated_Shiny_1</Name>
+      <Identity>
+        <SourceFilename>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\Content\map.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.75686276 0.75686276 0.75686276</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\map\_Metal_Corrogated_Shiny_1.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

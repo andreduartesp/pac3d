@@ -1,0 +1,32 @@
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mapa.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\map\_Metal_Corrogated_Shiny_1_0.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bloco.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\blocks\Metal_Corrogated_Shiny_0.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pastilha.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Blink.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Clyde.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ink.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PacMan.xnb
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Pink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\mapa.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\bloco.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\pastilha.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\Blink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\Clyde.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\Ink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\PacMan.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\Pink.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\map\_Metal_Corrogated_Shiny_1_0.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\Content\blocks\Metal_Corrogated_Shiny_0.xnb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Debug\WindowsGame1.pdb
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\obj\x86\Debug\WindowsGame1.pdb

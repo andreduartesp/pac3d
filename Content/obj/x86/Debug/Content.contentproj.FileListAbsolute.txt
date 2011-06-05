@@ -1,0 +1,2 @@
+C:\Documents and Settings\andre\Meus documentos\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\Content\obj\x86\Debug\ResolveAssemblyReference.cache

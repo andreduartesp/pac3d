@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>map.fbx</Source>
+      <Name>mapa</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\mapa.xnb</Output>
+      <Time>2011-05-28T20:03:55.3784215-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\map_0.xml</Key>
+        <Value>2011-05-29T21:37:51.7464614-03:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\map\_Metal_Corrogated_Shiny_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>blocks.fbx</Source>
+      <Name>bloco</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\bloco.xnb</Output>
+      <Time>2011-05-28T20:07:24.8896839-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\blocks_0.xml</Key>
+        <Value>2011-05-29T21:37:53.4489094-03:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\blocks\Metal_Corrogated_Shiny_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>pac_dots.fbx</Source>
+      <Name>pastilha</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\pastilha.xnb</Output>
+      <Time>2011-05-29T05:01:10.2819854-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\pac_dots_0.xml</Key>
+        <Value>2011-05-29T21:37:54.1198742-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Blink.fbx</Source>
+      <Name>Blink</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Blink.xnb</Output>
+      <Time>2011-05-29T06:13:36.345755-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Blink_0.xml</Key>
+        <Value>2011-05-29T21:37:54.5004214-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Clyde.fbx</Source>
+      <Name>Clyde</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Clyde.xnb</Output>
+      <Time>2011-05-29T06:12:52.2122942-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Clyde_0.xml</Key>
+        <Value>2011-05-29T21:37:54.8709542-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Ink.fbx</Source>
+      <Name>Ink</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Ink.xnb</Output>
+      <Time>2011-05-29T06:13:59.5391054-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Ink_0.xml</Key>
+        <Value>2011-05-29T21:37:55.2515014-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>PacMan.fbx</Source>
+      <Name>PacMan</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\PacMan.xnb</Output>
+      <Time>2011-05-29T06:15:43.8340742-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\PacMan_0.xml</Key>
+        <Value>2011-05-29T21:37:55.6320486-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Pink.fbx</Source>
+      <Name>Pink</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\Pink.xnb</Output>
+      <Time>2011-05-29T06:14:30.8290982-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Pink_0.xml</Key>
+        <Value>2011-05-29T21:37:55.9825526-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>map.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\map_0.xml</Output>
+      <Time>2011-05-28T20:03:55.3784215-03:00</Time>
+    </Item>
+    <Item>
+      <Source>map\_Metal_Corrogated_Shiny_1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\map\_Metal_Corrogated_Shiny_1_0.xnb</Output>
+      <Time>2011-05-28T20:03:15.2507207-03:00</Time>
+    </Item>
+    <Item>
+      <Source>blocks.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\blocks_0.xml</Output>
+      <Time>2011-05-28T20:07:24.8896839-03:00</Time>
+    </Item>
+    <Item>
+      <Source>blocks\Metal_Corrogated_Shiny.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\blocks\Metal_Corrogated_Shiny_0.xnb</Output>
+      <Time>2011-05-28T20:06:15.3897479-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pac_dots.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\pac_dots_0.xml</Output>
+      <Time>2011-05-29T05:01:10.2819854-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Blink.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Blink_0.xml</Output>
+      <Time>2011-05-29T06:13:36.345755-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Clyde.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Clyde_0.xml</Output>
+      <Time>2011-05-29T06:12:52.2122942-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Ink.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Ink_0.xml</Output>
+      <Time>2011-05-29T06:13:59.5391054-03:00</Time>
+    </Item>
+    <Item>
+      <Source>PacMan.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\PacMan_0.xml</Output>
+      <Time>2011-05-29T06:15:43.8340742-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pink.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Pink_0.xml</Output>
+      <Time>2011-05-29T06:14:30.8290982-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\andre\Desktop\AndreDuarte-LuizGeraldo-LeandroFaria\Projeto\Pac3D\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-09T01:48:42.3483986-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
